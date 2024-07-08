@@ -1,0 +1,4 @@
+
+frontend    : React
+backend     : Node ,Express
+database    : mongoDb

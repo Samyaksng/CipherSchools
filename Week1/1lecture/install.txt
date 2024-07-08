@@ -1,0 +1,4 @@
+
+Installation of IDE
+
+MERN stack - MongoDB, Express.js, React.js, and Node.js.
